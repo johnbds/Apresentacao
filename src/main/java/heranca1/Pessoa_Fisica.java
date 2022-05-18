@@ -4,6 +4,7 @@ public class Pessoa_Fisica extends Pessoa{
 	private String cpf;
 	private String rg;
 	private String data_nascimento;
+	private String teste;
 	
 	public String getCpf() {
 		return cpf;
